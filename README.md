@@ -18,7 +18,7 @@
 ![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Full--time-2ea44f?style=for-the-badge)
 ![Location](https://img.shields.io/badge/Based%20in-Yogyakarta%2C%20Indonesia-0A66C2?style=for-the-badge)
 
-[🌐 Portfolio](https://yusufleo.my.id) &nbsp;•&nbsp; [💼 LinkedIn]([LINK_LINKEDIN]) &nbsp;•&nbsp; [📧 Email](mailto:[EMAIL_KAMU]) &nbsp;•&nbsp; [📄 CV]([LINK_CV])
+[🌐 Portfolio](https://yusufleo.my.id) &nbsp;•&nbsp; [💼 LinkedIn](https://linkedin.com/in/yusufleor) &nbsp;•&nbsp; [📧 Email](mailto:yusufl.rizaldy@gmail.com) &nbsp;•&nbsp; [📄 CV](https://drive.google.com/file/d/1zDArpet41e7ZHyzFCYO9jRzfnXI2ygcj/view?usp=sharing)
 
 </div>
 
@@ -48,18 +48,7 @@ End-to-end ML pipeline predicting property prices across **17 districts (kecamat
 - Served through a **Streamlit** app
 
 `Python` `XGBoost` `scikit-learn` `pandas` `Streamlit`
-&nbsp;➜ [Repository]([LINK_REPO_SKRIPSI]) &nbsp;|&nbsp; [Live Demo]([LINK_DEMO]) &nbsp;|&nbsp; Result: **R² = [DIISI], MAPE = [DIISI]**
-
----
-
-### 🖥️ Self-Hosted Data & ML Stack
-Personal production-style environment on a VPS to deploy and monitor my projects.
-- **Docker Compose** stack: Caddy reverse proxy (auto HTTPS), PostgreSQL 16, FastAPI service, Streamlit apps
-- **Scheduled data ingestion** via cron (every 6 hours)
-- Hardened with a firewall (UFW), only the required ports exposed
-
-`Docker` `PostgreSQL` `FastAPI` `Streamlit` `Caddy` `Linux`
-&nbsp;➜ [Repository]([LINK_REPO_STACK]) &nbsp;|&nbsp; [Live Demo]([LINK_DEMO_STACK])
+&nbsp;➜ [Repository](https://github.com/YusufLeoR/Web-Prediksi-Harga-Rumah-Sleman) &nbsp;|&nbsp; [Live Demo](https://rumah.yusufleo.my.id/) &nbsp;
 
 ---
 
@@ -69,7 +58,7 @@ CNN that classifies a face photo into one of **4 seasonal color types**.
 - Generated labels from HSV hue and LAB lightness; I handled dataset labeling, model training, and evaluation
 
 `Python` `TensorFlow` `OpenCV`
-&nbsp;➜ [Repository]([LINK_REPO_CNN])
+&nbsp;➜ [Repository](https://github.com/Capstone-Coding-Camp-CC25-CF139/Capstone-Coding-Camp-2025)|&nbsp; [Live Demo](https://color-tone-detector.vercel.app/home) &nbsp;
 
 ---
 
